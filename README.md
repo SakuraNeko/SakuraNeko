@@ -1,14 +1,14 @@
-## 自我介绍
+Hi, Here is Sakura Neko, elsewhere you may see me referring to myself as `CatElf` or `DevNeko`.
 
-- 三流写手，职业说书人
-- 粗通项目管理的游戏人
-- 能使多种游戏引擎的BUGer
-- 万能的世界观锻造机，中国最屑游戏原案（自称）
-- 猫娘（不）
+- I am a third-rate writer & professional storyteller.
+- I am Game Developers and familiar with project management.
+  - A Buger 🐞 with multiple game engines.
+  - The almighty worldview 🌏 forging machine.
+  - China's most shitly 💥 game original works maker (self-proclaimed).
+- By the way, I'm still helping with my friend's project 👉 [NanaZip](https://github.com/M2Team/NanaZip).
+- My blog [SakuraNeko.Tech](https://www.sakuraneko.tech/).
+- ねこむすめ（On other world）.
 
-## 个人网站
-
-[SakuraNeko.Tech](https://www.sakuraneko.tech/)
 
 <!--
 **SakuraNeko/SakuraNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
